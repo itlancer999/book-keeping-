@@ -83,7 +83,7 @@ border-radius: 0;*/
 
 #home {
 
-	background:url('img/cover-tax.jpg') no-repeat center center fixed;
+	background:url('img/hero-section.jpg') no-repeat center center fixed;
 	display:table;
 	height:100%;
 	position:relative;
@@ -135,7 +135,7 @@ border-radius: 0;*/
 }
 
 #fixed {
-	background:url(img/hero-section.jpg) no-repeat center center fixed;
+	background:url(img/background.jpg) no-repeat center center fixed;
 	display:table;
 	height:60%;
 	position:relative;
