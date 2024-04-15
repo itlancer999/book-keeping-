@@ -135,7 +135,7 @@ border-radius: 0;*/
 }
 
 #fixed {
-	background:url(img/background.jpg) no-repeat center center fixed;
+	background:url(img/hero-section.jpg) no-repeat center center fixed;
 	display:table;
 	height:60%;
 	position:relative;
